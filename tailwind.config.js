@@ -5,7 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    color: {
+    colors: {
       'orange' : '#e28625',
       'green' : '#006971',
       'dark-green' : '#004140',
@@ -17,9 +17,6 @@ export default {
       'showIders': '"Big Shoulders Display"',
       'lexend': '"Lexend Deca'
     }
-
-
-
   },
   plugins: [],
 }
